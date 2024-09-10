@@ -1,11 +1,16 @@
 Dados do aluno
 
--Primeiro Nome:
--Profissão:
--Cidade:
--O que faz nas horas vaga:
--Feedback sobre o curso Qualidade de Software:
--Feedback sobre a plataforma de estudo da EBAC:
+-Primeiro Nome: Zhu Ze Feng
+
+-Profissão: vendedor
+
+-Cidade: Curitiba-PR
+
+-O que faz nas horas vaga: video games, leitura e exercícios físecos
+
+-Feedback sobre o curso Qualidade de Software: "Conteúdo muito bom. Mas sofre com a falta de descrição de certos termos técnicos"
+
+-Feedback sobre a plataforma de estudo da EBAC: "Ótima, com uma boa equipe."
 
 Obrigado!!!
 
